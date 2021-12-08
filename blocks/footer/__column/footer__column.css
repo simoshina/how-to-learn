@@ -1,0 +1,6 @@
+.footer__column {
+  color: #fff;
+  min-height: 0;
+  display: flex;
+  justify-content: flex-start;
+}

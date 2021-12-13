@@ -9,6 +9,5 @@
 }
 
 .rotation {
-  overflow: hidden;
   animation: rotation 20s linear infinite;
 }

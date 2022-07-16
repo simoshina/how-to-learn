@@ -17,7 +17,5 @@ ___
 - добавление образовательных видео;
 - добавление формы для отправки комментария.
 
-* [Ссылка на сайт](https://simoshina.github.io/how-to-learn/index.html).
-
 #### Проект создан в рамках обучения в [Яндекс.Практикуме](https://practicum.yandex.ru/).  
 Автор: [@simoshina](https://github.com/simoshina).
